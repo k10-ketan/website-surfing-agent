@@ -4,6 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import random
 import time
 
+
 # ---------- CONFIG ----------
 LOOP_COUNT = 5
 TARGET_URL = "https://animesamaj.blogspot.com/?m=1"
